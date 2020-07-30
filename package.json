@@ -1,0 +1,15 @@
+{
+  "name": "yaroslav",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/yaroslav899/hw2.git",
+  "author": "yaroslav899 <yaroslav899@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^9.3.1",
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0",
+    "phin": "^3.5.0"
+  }
+}
